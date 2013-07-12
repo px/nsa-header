@@ -1,11 +1,18 @@
 nsa-header
 ==========
 
-Adds a NSA friendly copyright license HTTP header to Nginx and Apache webservers.
+Adds a NSA friendly copyright license HTTP header to popular webservers.
 
 * [EFF: NSA Spying](https://www.eff.org/nsa-spying)
 
 Fun Idea From: [aestetix](http://aestetix.com/2013/07/11/fighting-back-against-the-nsa-with-http/)
+
+
+Webservers
+------------------
+* Apache
+* Nginx
+
 
 Testing The Header
 ------------------
