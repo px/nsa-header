@@ -17,7 +17,7 @@ Webservers
 Testing The Header
 ------------------
 
-Test our your new header is easy enough.
+Testing out your new header is easy enough.
 `curl --head www.example.com 2>&1  | grep :`
 
     $ curl --head www.example.com 2>&1  | grep :
